@@ -1,0 +1,27 @@
+[
+    {
+        "name": "selectTest",
+        "label": "Select Test",
+        "component": "select",
+        "options": [
+            {
+                "name": "A",
+                "label": "A"
+            },
+            {
+                "name": "B",
+                "label": "B"
+            }
+        ]
+    },
+    {
+        "name": "textTest",
+        "label": "Text Test",
+        "component": "text"
+    },
+    {
+        "name": "checkboxTest",
+        "label": "Checkbox Test",
+        "component": "check-box"
+    }
+]
